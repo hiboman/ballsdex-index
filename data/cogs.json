@@ -47,7 +47,7 @@
       "branch": "main"
     },
     {
-      "repo": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack",
+      "repo": "https://github.com/hiboman/BallsDex-Rarity-Pack",
       "branch": "master"
     },
     {
@@ -59,7 +59,7 @@
       "branch": "BossPackageBD-V3"
     },
     {
-      "repo": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack",
+      "repo": "https://github.com/hiboman/BallsDex-Leaderboard-Pack",
       "branch": "master"
     },
     {
@@ -67,16 +67,16 @@
       "branch": "master"
     },
     {
-      "repo": "https://github.com/MapsDex-Team/BallsDex-AntiFarm-Pack",
+      "repo": "https://github.com/hiboman/BallsDex-AntiFarm-Pack",
       "branch": "master"
     },
     {
-      "repo": "https://github.com/MapsDex-Team/BallsDex-Battle-Pack",
+      "repo": "https://github.com/hiboman/BallsDex-Battle-Pack",
       "branch": "master"
     },
     {
-      "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
-      "branch": "master"
+      "repo": "https://github.com/Mitoooooooopo/Crafting-package-BD",
+      "branch": "main"
     },
     {
       "repo": "https://github.com/cewlgruyere/SpecialBonuses",
